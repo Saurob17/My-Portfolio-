@@ -475,5 +475,10 @@ a.btn:nth-child(2):hover::before {
   animation: nodejs 3s;
 }
 /* 
-
+dskldklskfd
 sdsd*/
+
+.skill-bar .bar span.nodejs {
+  width: 40%;
+  animation: nodejs 3s;
+}
